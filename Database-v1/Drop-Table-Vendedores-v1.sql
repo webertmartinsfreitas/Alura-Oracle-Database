@@ -1,0 +1,2 @@
+﻿-- Exclusão da tabela Vendedores.
+DROP TABLE "SYSTEM"."TB_VENDEDORES" CASCADE CONSTRAINTS;
