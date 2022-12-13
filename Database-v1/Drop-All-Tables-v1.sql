@@ -1,0 +1,8 @@
+﻿-- Exclusão da tabela Clientes.
+DROP TABLE "SYSTEM"."TB_CLIENTES" CASCADE CONSTRAINTS;
+
+-- Exclusão da tabela Produtos.
+DROP TABLE "SYSTEM"."TB_PRODUTOS" CASCADE CONSTRAINTS;
+
+-- Exclusão da tabela Vendedores.
+DROP TABLE "SYSTEM"."TB_VENDEDORES" CASCADE CONSTRAINTS;
