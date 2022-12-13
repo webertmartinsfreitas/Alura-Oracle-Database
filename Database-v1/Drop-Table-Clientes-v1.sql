@@ -1,0 +1,2 @@
+﻿-- Exclusão da tabela Clientes.
+DROP TABLE "SYSTEM"."TB_CLIENTES" CASCADE CONSTRAINTS;
