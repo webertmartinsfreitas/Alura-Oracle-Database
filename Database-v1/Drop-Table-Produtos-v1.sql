@@ -1,0 +1,2 @@
+﻿-- Exclusão da tabela Produtos.
+DROP TABLE "SYSTEM"."TB_PRODUTOS" CASCADE CONSTRAINTS;
