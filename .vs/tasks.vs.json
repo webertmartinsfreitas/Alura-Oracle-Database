@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-Create-Table-Clientes-v1",
+      "appliesTo": "Database-v1/Create-Table-Clientes-v1.sql",
+      "type": "launch"
+    }
+  ]
+}
